@@ -19,6 +19,7 @@
 * Final project of Besquare Program. A group must create real time platform. 
 * COMD5 is a virtual platform to trade and analyze commodities. We added features to buy, sell, top up and withdraw. 
 * We used deriv API for commodities API(https://api.deriv.com/api-explorer/) 
+* APIS server(https://github.com/Izzan54/test_project_besquare.git)
 
 # [Project 5: Quality Assurance (Automation and Manual Testing)](https://github.com/Izzan54/comd5.git)
 * Automation testing for Deriv website (https://oauth.deriv.com/oauth2/authorize?app_id=16929&l=en&brand=deriv&date_first_contact=2022-03-22&signup_device=desktop&utm_source=null&platform=)
