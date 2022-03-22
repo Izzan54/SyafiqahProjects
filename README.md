@@ -15,3 +15,7 @@
 
 # [Project 3: BackEnd](https://github.com/Izzan54/backend.git)
 * Backend developement module
+
+# [Project 3: Mobile Development](https://github.com/Izzan54/MobileModule.git)
+* Mobile development
+* Mobile final project (https://github.com/Izzan54/Mobile_Final_Project.git)
